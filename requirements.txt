@@ -4,6 +4,6 @@ matplotlib
 pandas_datareader
 yfinance
 scikit-learn
-keras
+Keras
 streamlit
 tensorflow
