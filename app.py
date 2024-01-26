@@ -60,7 +60,7 @@ data_training_array=scaler.fit_transform(data_training)
 
 
 #LOAD MODEL
-model=load_model('main/keras_model.keras',compile = False)
+model=load_model('keras_model.keras',compile = False)
 #model=load_model('https://github.com/amishaba/stockPredictor/blob/main/keras_model.keras')
 
 
